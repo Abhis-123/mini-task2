@@ -18,4 +18,5 @@ Step| Solutions available | Advantages | Disadvantages
 
 #### Final ideation
 So finally taking the budget into account we are choosing following products 1.SparkFun Electronics GPS-14030,2.Aurdino Uno 3.HC-12
-and the final cost will be around 60$(4+11+45)  connect battery(we can choose any from 3-7 volt)  to GPS ,aurdino and HC-12 transreciever in such a way that data from gps should be refined in Microconttroller (Aurdino) and then
+and the final cost will be around 60$(4+11+45)  connect battery(we can choose any from 3-7 volt)  to GPS ,aurdino and HC-12 transreciever in such a way that data from gps should be refined in Microconttroller (Aurdino) and then to HC-12 for transmission
+for recieving we use the HC-12 reciever and then the datab will be converted to maps  readable file by online platforms . And after that we have completed the project .
