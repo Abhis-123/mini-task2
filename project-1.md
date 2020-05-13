@@ -10,5 +10,11 @@
 Steps: Powersupply=>Connect GPS Reciever => Refining Data=>Transmit Data(refined)=>Recieve Data=>Use Data On live maps.
  
  
-#### Steps | solutions | Analysis
- 1.Power Supply|Battry | It is the only possible solution for continuous supply<br>2.GPS reciever|1.SparkFun Electronics <br>mase
+#### Steps                        | solutions                          |              Analysis
+----------------------------------|------------------------------------|-----------------------------------------------------------|
+ 1.Power Supply                   |Battery                             | It is the only possible solution for continuous supply    |
+----------------------------------|------------------------------------|-----------------------------------------------------------|
+ 2.GPS reciever                   |1.SparkFun Electronics <br>mase
+----------------------------------|------------------------------------|-----------------------------------------------------------|
+3.Refining Data                   |1.Aurdino Uno 3 <br> 2              | It is a easily avilable product 
+----------------------------------|------------------------------------|-----------------------------------------------------------|
